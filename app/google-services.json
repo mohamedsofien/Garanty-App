@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "796711976150",
+    "firebase_url": "https://mywebapplication-e8d9f.firebaseio.com",
+    "project_id": "mywebapplication-e8d9f",
+    "storage_bucket": "mywebapplication-e8d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796711976150:android:168045526c75e6cc",
+        "android_client_info": {
+          "package_name": "com.example.fossien.Garanty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796711976150-qo1sdvqss8dfnodepsub6hl58jqdmt24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fossien.mywebapplication",
+            "certificate_hash": "f422bee2fe396ab8f65cea3e7a6a0deba8dc12b5"
+          }
+        },
+        {
+          "client_id": "796711976150-05krft1rqaibpea8md7blu9m5m3q3g2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKF4gJltZpqX_994-ZCt6Nu3PXE2Ua9rY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796711976150-05krft1rqaibpea8md7blu9m5m3q3g2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796711976150:android:64f533ba84f10e09",
+        "android_client_info": {
+          "package_name": "com.example.fossien.productapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796711976150-id51or5nek78ejcsra9qu7thmncu5r03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fossien.productapp",
+            "certificate_hash": "f422bee2fe396ab8f65cea3e7a6a0deba8dc12b5"
+          }
+        },
+        {
+          "client_id": "796711976150-05krft1rqaibpea8md7blu9m5m3q3g2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKF4gJltZpqX_994-ZCt6Nu3PXE2Ua9rY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796711976150-05krft1rqaibpea8md7blu9m5m3q3g2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796711976150:android:26e97c6ba9639056",
+        "android_client_info": {
+          "package_name": "com.example.fossien.naimapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796711976150-du6l05r0b19tbehqoog7ravna6e99ar7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fossien.naimapplication",
+            "certificate_hash": "f422bee2fe396ab8f65cea3e7a6a0deba8dc12b5"
+          }
+        },
+        {
+          "client_id": "796711976150-05krft1rqaibpea8md7blu9m5m3q3g2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKF4gJltZpqX_994-ZCt6Nu3PXE2Ua9rY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796711976150-05krft1rqaibpea8md7blu9m5m3q3g2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796711976150:android:5ae1018eccc62fa1",
+        "android_client_info": {
+          "package_name": "com.example.fossien.ahmedapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796711976150-susgdt5t67qpakn0fd035imt9f8ftfrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fossien.ahmedapplication",
+            "certificate_hash": "f422bee2fe396ab8f65cea3e7a6a0deba8dc12b5"
+          }
+        },
+        {
+          "client_id": "796711976150-05krft1rqaibpea8md7blu9m5m3q3g2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKF4gJltZpqX_994-ZCt6Nu3PXE2Ua9rY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796711976150-05krft1rqaibpea8md7blu9m5m3q3g2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796711976150:android:9347c399b2573fca",
+        "android_client_info": {
+          "package_name": "com.example.fossien.naim2application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796711976150-dra9evvscamrrlqaeo62hggjlphc3su0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fossien.naim2application",
+            "certificate_hash": "f422bee2fe396ab8f65cea3e7a6a0deba8dc12b5"
+          }
+        },
+        {
+          "client_id": "796711976150-05krft1rqaibpea8md7blu9m5m3q3g2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKF4gJltZpqX_994-ZCt6Nu3PXE2Ua9rY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796711976150-05krft1rqaibpea8md7blu9m5m3q3g2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
